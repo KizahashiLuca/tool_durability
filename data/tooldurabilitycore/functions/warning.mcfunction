@@ -6,7 +6,7 @@
 ## ReleaseDate: 
 ##   Oct 15, 2018
 ## Version:
-##   0.1
+##   0.2
 ## Description:
 ##   warn player tool damages.
 ###############################
