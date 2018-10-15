@@ -6,7 +6,7 @@
 ## ReleaseDate: 
 ##   Oct 15, 2018
 ## Version:
-##   0.2
+##   0.3
 ## Description:
 ##   decide tool max durability.
 ###############################
