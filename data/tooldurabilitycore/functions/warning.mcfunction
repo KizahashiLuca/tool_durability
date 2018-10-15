@@ -1,5 +1,5 @@
 ###############################
-## Minecraft Version 1.13.2
+## Minecraft Version 1.13.1
 ##   Warning Tool Durability
 ## Author:
 ##   KizahashiLuca
@@ -11,6 +11,6 @@
 ##   warn player tool damages.
 ###############################
 
-title @s actionbar ["",{"text":"[oh.....]","color":"red","bold":true},{"text":" your tool is dead soon","color":"none","bold":false}]
+title @s actionbar ["",{"text":"[WARNING]","color":"red","bold":true},{"text":" your tool is dead soon","color":"none","bold":false}]
 scoreboard players set @s tool.Caution 1
 scoreboard players operation @s tool.Tmp = @s tool.Durability

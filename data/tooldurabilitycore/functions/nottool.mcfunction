@@ -1,5 +1,5 @@
 ###############################
-## Minecraft Version 1.13.2
+## Minecraft Version 1.13.1
 ##   Warning Tool Durability
 ## Author:
 ##   KizahashiLuca
@@ -8,7 +8,8 @@
 ## Version:
 ##   0.1
 ## Description:
-##   warn player tool damages.
+##   if not tool,
+##   not display sidebar.
 ###############################
 
 scoreboard objectives remove tool.Durability

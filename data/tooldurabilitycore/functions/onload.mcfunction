@@ -1,5 +1,5 @@
 ###############################
-## Minecraft Version 1.13.2
+## Minecraft Version 1.13.1
 ##   Warning Tool Durability
 ## Author:
 ##   KizahashiLuca
@@ -8,7 +8,7 @@
 ## Version:
 ##   0.1
 ## Description:
-##   warn player tool damages.
+##   load one time at first.
 ###############################
 
 gamerule commandBlockOutput true
@@ -20,4 +20,3 @@ scoreboard objectives add tool.Durability dummy
 scoreboard objectives add tool.Damage dummy
 scoreboard objectives add tool.Tmp dummy
 scoreboard objectives add tool.Total dummy
-scoreboard objectives add tool.id dummy
