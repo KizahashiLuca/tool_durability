@@ -6,11 +6,10 @@
 ## ReleaseDate: 
 ##   Oct 15, 2018
 ## Version:
-##   0.3
+##   0.4
 ## Description:
 ##   if not tool,
 ##   not display sidebar.
 ###############################
 
-scoreboard objectives remove tool.Durability
 scoreboard players set @s tool.Tmp 0

@@ -10,5 +10,6 @@ Supported Minecraft JE v1.13.1
 
 ## rivision
  - v0.1 - Supported multi-player game ?
- - v0.2 - Supported to display all tools' durability
- - v0.3 - Supported to display caution message to action bar
+ - v0.2 - Supported all tools' durability
+ - v0.3 - Supported to display caution message on action bar
+ - v0.4 - Supported to display name of each tool on sidebar

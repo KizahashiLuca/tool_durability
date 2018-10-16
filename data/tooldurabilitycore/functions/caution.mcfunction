@@ -6,11 +6,11 @@
 ## ReleaseDate: 
 ##   Oct 15, 2018
 ## Version:
-##   0.3
+##   0.4
 ## Description:
 ##   caution for player tool damages.
 ###############################
 
 title @s actionbar ["",{"text":"[CAUTION]","color":"red","bold":true},{"text":" your tool is dying","color":"none","bold":false}]
 scoreboard players set @s tool.Caution 1
-scoreboard players operation @s tool.Tmp = @s tool.Durability
+scoreboard players operation @s tool.Tmp = #tool.Compare tool.Durability

@@ -6,7 +6,7 @@
 ## ReleaseDate: 
 ##   Oct 15, 2018
 ## Version:
-##   0.3
+##   0.4
 ## Description:
 ##   load one time at first.
 ###############################
@@ -19,4 +19,5 @@ scoreboard objectives add tool.Caution trigger
 scoreboard objectives add tool.Durability dummy
 scoreboard objectives add tool.Damage dummy
 scoreboard objectives add tool.Tmp dummy
+scoreboard objectives add tool.Foo dummy
 scoreboard objectives add tool.Total dummy
